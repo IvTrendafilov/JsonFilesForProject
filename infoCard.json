@@ -1,5 +1,5 @@
 {
-    "icon": "baseline_star_border_24",
-    "title": "Inactive devices",
-    "value": "3"
+    "image": "baseline_star_border_24",
+    "message": "Inactive devices",
+    "number": "3"
 }
