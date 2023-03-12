@@ -7,11 +7,16 @@
     {
     "image": "R.drawable.baseline_star_border_24",
     "message": "Inactive devices",
-    "number": "3"
+    "number": "4"
     },
     {
     "image": "R.drawable.baseline_star_border_24",
     "message": "Inactive devices",
-    "number": "3"
+    "number": "7"
+    },
+    {
+    "image": "R.drawable.baseline_star_border_24",
+    "message": "Inactive devices",
+    "number": "5"
     }
 ]
