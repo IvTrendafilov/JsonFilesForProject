@@ -1,55 +1,52 @@
 [
 {
   "image": "baseline_lightbulb_circle_24",
-  "category": "Device",
-  "description": "Kitchen lamp turned on1",
-  "type": "Text",
-  "timestamp": "5m ago",
-  "recipient": "John",
+  "devicesMessage": "Device",
+  "message": "Kitchen lamp turned on1",
+  "status": "Text",
+  "timeMessage": "5m ago",
+  "userMessage": "John",
   "isRead": false
 },
 {
   "image": "baseline_lightbulb_circle_24",
-  "category": "Device",
-  "description": "Kitchen lamp turned on1",
-  "type": "Text",
-  "timestamp": "5m ago",
-  "recipient": "John",
-  "isRead": false
-},
-{
+  "devicesMessage": "Device",
+  "message": "Kitchen lamp turned on1",
+  "status": "Text",
+  "timeMessage": "5m ago",
+  "userMessage": "John",
+  "isRead": true
+},{
   "image": "baseline_lightbulb_circle_24",
-  "category": "Device",
-  "description": "Kitchen lamp turned on1",
-  "type": "Text",
-  "timestamp": "5m ago",
-  "recipient": "John",
+  "devicesMessage": "Device",
+  "message": "Kitchen lamp turned on1",
+  "status": "Text",
+  "timeMessage": "5m ago",
+  "userMessage": "John",
   "isRead": false
 },{
   "image": "baseline_lightbulb_circle_24",
-  "category": "Device",
-  "description": "Kitchen lamp turned on1",
-  "type": "Text",
-  "timestamp": "5m ago",
-  "recipient": "John",
+  "devicesMessage": "Device",
+  "message": "Kitchen lamp turned on1",
+  "status": "Text",
+  "timeMessage": "5m ago",
+  "userMessage": "John",
+  "isRead": true
+},{
+  "image": "baseline_lightbulb_circle_24",
+  "devicesMessage": "Device",
+  "message": "Kitchen lamp turned on1",
+  "status": "Text",
+  "timeMessage": "5m ago",
+  "userMessage": "John",
+  "isRead": false
+},{
+  "image": "baseline_lightbulb_circle_24",
+  "devicesMessage": "Device",
+  "message": "Kitchen lamp turned on1",
+  "status": "Text",
+  "timeMessage": "5m ago",
+  "userMessage": "John",
   "isRead": true
 },
-{
-  "image": "baseline_lightbulb_circle_24",
-  "category": "Device",
-  "description": "Kitchen lamp turned on1",
-  "type": "Text",
-  "timestamp": "5m ago",
-  "recipient": "John",
-  "isRead": true
-},
-{
-  "image": "baseline_lightbulb_circle_24",
-  "category": "Device",
-  "description": "Kitchen lamp turned on1",
-  "type": "Text",
-  "timestamp": "5m ago",
-  "recipient": "John",
-  "isRead": true
-}
 ]
