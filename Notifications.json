@@ -2,7 +2,7 @@
 {
   "image": "baseline_lightbulb_circle_24",
   "devicesMessage": "Device",
-  "message": "Kitchen lamp turned on1",
+  "message": "Kitchen lamp turned off",
   "status": "Text",
   "timeMessage": "5m ago",
   "userMessage": "John",
@@ -11,7 +11,7 @@
 {
   "image": "baseline_lightbulb_circle_24",
   "devicesMessage": "Device",
-  "message": "Kitchen lamp turned on1",
+  "message": "Kitchen lamp turned on",
   "status": "Text",
   "timeMessage": "5m ago",
   "userMessage": "John",
@@ -19,7 +19,7 @@
 },{
   "image": "baseline_lightbulb_circle_24",
   "devicesMessage": "Device",
-  "message": "Kitchen lamp turned on1",
+  "message": "Kitchen lamp turned off1",
   "status": "Text",
   "timeMessage": "5m ago",
   "userMessage": "John",
@@ -35,7 +35,7 @@
 },{
   "image": "baseline_lightbulb_circle_24",
   "devicesMessage": "Device",
-  "message": "Kitchen lamp turned on1",
+  "message": "Kitchen lamp turned off2",
   "status": "Text",
   "timeMessage": "5m ago",
   "userMessage": "John",
@@ -43,7 +43,7 @@
 },{
   "image": "baseline_lightbulb_circle_24",
   "devicesMessage": "Device",
-  "message": "Kitchen lamp turned on1",
+  "message": "Kitchen lamp turned on2",
   "status": "Text",
   "timeMessage": "5m ago",
   "userMessage": "John",
