@@ -1,0 +1,33 @@
+[
+{
+    "alertImage": "baseline_star_border_24",
+    "deviceName": "Camera",
+    "descriptionMessage": "Kitchen camera",
+	"status": "On",
+	"deviceImage": "baseline_star_border_24"
+	
+	
+
+},
+{
+    "alertImage": "baseline_star_border_24",
+    "deviceName": "Camera",
+    "descriptionMessage": "Kitchen camera",
+	"status": "On",
+	"deviceImage": "baseline_star_border_24"
+},
+{
+    "alertImage": "baseline_star_border_24",
+    "deviceName": "Camera",
+    "descriptionMessage": "Kitchen camera",
+	"status": "On",
+	"deviceImage": "baseline_star_border_24"
+},
+{
+    "alertImage": "baseline_star_border_24",
+    "deviceName": "Camera",
+    "descriptionMessage": "Kitchen camera",
+	"status": "On",
+	"deviceImage": "baseline_star_border_24"
+}
+]
