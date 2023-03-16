@@ -48,5 +48,13 @@
   "timeMessage": "5m ago",
   "userMessage": "John",
   "isRead": true
+},{
+  "image": "baseline_lightbulb_circle_24",
+  "devicesMessage": "Device",
+  "message": "Kitchen lamp turned on3",
+  "status": "Text",
+  "timeMessage": "5m ago",
+  "userMessage": "John",
+  "isRead": true
 }
 ]
