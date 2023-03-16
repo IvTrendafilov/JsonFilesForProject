@@ -63,6 +63,6 @@
   "status": "Text",
   "timeMessage": "5m ago",
   "userMessage": "John",
-  "isRead": false
+  "isRead": true
 }
 ]
