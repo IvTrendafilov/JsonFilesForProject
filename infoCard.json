@@ -1,20 +1,24 @@
 [
     {
+        "id": 1,
     "image": "R.drawable.baseline_star_border_24",
     "message": "Inactive devices",
     "number": "3"
     },
     {
+        "id": 2,
     "image": "R.drawable.baseline_star_border_24",
     "message": "Inactive devices",
     "number": "4"
     },
     {
+        "id": 3,
     "image": "R.drawable.baseline_star_border_24",
     "message": "Inactive devices",
     "number": "7"
     },
     {
+        "id": 4,
     "image": "R.drawable.baseline_star_border_24",
     "message": "Inactive devices",
     "number": "5"
