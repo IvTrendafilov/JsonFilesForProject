@@ -1,0 +1,76 @@
+[
+{
+  "id": 1,
+  "image": "baseline_lightbulb_circle_24",
+  "devicesMessage": "Device",
+  "message": "Kitchen lamp turned off",
+  "status": "Text",
+  "timeMessage": "5176554m ago",
+  "userMessage": "Test6",
+  "isRead": false
+},
+{
+  "id": 2,
+  "image": "baseline_lightbulb_circle_24",
+  "devicesMessage": "Device",
+  "message": "Kitchen lamp turned on",
+  "status": "Text",
+  "timeMessage": "512345m ago",
+  "userMessage": "Test",
+  "isRead": true
+},{
+  "id": 3,
+  "image": "baseline_lightbulb_circle_24",
+  "devicesMessage": "Device",
+  "message": "Kitchen lamp turned off1",
+  "status": "Text",
+  "timeMessage": "5123124123m ago",
+  "userMessage": "Test5",
+  "isRead": false
+},{
+  "id": 4,
+  "image": "baseline_lightbulb_circle_24",
+  "devicesMessage": "Device",
+  "message": "Kitchen lamp turned on1",
+  "status": "Text",
+  "timeMessage": "1231234m ago",
+  "userMessage": "Test",
+  "isRead": true
+},{
+  "id": 5,
+  "image": "baseline_lightbulb_circle_24",
+  "devicesMessage": "Device",
+  "message": "Kitchen lamp turned off2",
+  "status": "Text",
+  "timeMessage": "543123m ago",
+  "userMessage": "Test4",
+  "isRead": false
+},{
+  "id": 6,
+  "image": "baseline_lightbulb_circle_24",
+  "devicesMessage": "Device",
+  "message": "Kitchen lamp turned on2",
+  "status": "Text",
+  "timeMessage": "5122m ago",
+  "userMessage": "Test",
+  "isRead": true
+},{
+  "id": 7,
+  "image": "baseline_lightbulb_circle_24",
+  "devicesMessage": "Device",
+  "message": "Kitchen lamp turned on3",
+  "status": "Text",
+  "timeMessage": "5m ago",
+  "userMessage": "Test1",
+  "isRead": true
+},{
+  "id": 8,
+  "image": "baseline_lightbulb_circle_24",
+  "devicesMessage": "Device",
+  "message": "Kitchen lamp turned off3",
+  "status": "Text",
+  "timeMessage": "124213m ago",
+  "userMessage": "Test2",
+  "isRead": false
+}
+]
