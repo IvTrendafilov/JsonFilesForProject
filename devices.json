@@ -10,16 +10,16 @@
 {
 	"id": 2,
     "alertImage": "baseline_star_border_24",
-    "deviceName": "Camera",
-    "descriptionMessage": "Kitchen camera",
+    "deviceName": "Tv",
+    "descriptionMessage": "Kitchen tv",
 	"status": "On",
 	"deviceImage": "baseline_lightbulb_circle_24"
 },
 {
 	"id": 3,
     "alertImage": "baseline_star_border_24",
-    "deviceName": "Camera",
-    "descriptionMessage": "Kitchen camera",
+    "deviceName": "Lamp",
+    "descriptionMessage": "Kitchen lamp",
 	"status": "On",
 	"deviceImage": "baseline_lightbulb_circle_24"
 },
@@ -27,23 +27,23 @@
 	"id": 4,
     "alertImage": "baseline_star_border_24",
     "deviceName": "Camera",
-    "descriptionMessage": "Kitchen camera",
+    "descriptionMessage": "Living room camera",
 	"status": "On",
 	"deviceImage": "baseline_lightbulb_circle_24"
 },
 {
 	"id": 5,
     "alertImage": "baseline_star_border_24",
-    "deviceName": "Camera",
-    "descriptionMessage": "Kitchen camera",
+    "deviceName": "Tv",
+    "descriptionMessage": "Living room tv",
 	"status": "On",
 	"deviceImage": "baseline_lightbulb_circle_24"
 },
 {
 	"id": 6,
     "alertImage": "baseline_star_border_24",
-    "deviceName": "Camera",
-    "descriptionMessage": "Kitchen camera",
+    "deviceName": "Lamp",
+    "descriptionMessage": "Living room lamp",
 	"status": "On",
 	"deviceImage": "baseline_lightbulb_circle_24"
 },
@@ -51,23 +51,23 @@
 	"id": 7,
     "alertImage": "baseline_star_border_24",
     "deviceName": "Camera",
-    "descriptionMessage": "Kitchen camera",
+    "descriptionMessage": "Bedroom camera",
 	"status": "On",
 	"deviceImage": "baseline_lightbulb_circle_24"
 },
 {
 	"id": 8,
     "alertImage": "baseline_star_border_24",
-    "deviceName": "Camera",
-    "descriptionMessage": "Kitchen camera",
+    "deviceName": "Tv",
+    "descriptionMessage": "Bedroom tv",
 	"status": "On",
 	"deviceImage": "baseline_lightbulb_circle_24"
 },
 {
 	"id": 9,
     "alertImage": "baseline_star_border_24",
-    "deviceName": "Camera",
-    "descriptionMessage": "Kitchen camera",
+    "deviceName": "Lamp",
+    "descriptionMessage": "Bedroom lamp",
 	"status": "On",
 	"deviceImage": "baseline_lightbulb_circle_24"
 }
