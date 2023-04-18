@@ -7,14 +7,7 @@
 		"status": "Text",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
-		"isRead": false,
-		"aditionalInfo": [{
-			"info": "info",
-			"infoAnswer": "answer"
-		}, {
-			"info1": "info1",
-			"infoAnswer1": "answer1"
-		}]
+		"isRead": false
 	},
 	{
 		"id": 2,
@@ -24,14 +17,7 @@
 		"status": "Text",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
-		"isRead": true,
-		"aditionalInfo": [{
-			"info": "info",
-			"infoAnswer": "answer"
-		}, {
-			"info1": "info1",
-			"infoAnswer1": "answer1"
-		}]
+		"isRead": true
 	}, {
 		"id": 3,
 		"image": "baseline_lightbulb_circle_24",
@@ -40,8 +26,7 @@
 		"status": "Text",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
-		"isRead": false,
-		"aditionalInfo": null
+		"isRead": false
 	}, {
 		"id": 4,
 		"image": "baseline_lightbulb_circle_24",
@@ -50,8 +35,7 @@
 		"status": "Text",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
-		"isRead": true,
-		"aditionalInfo": null
+		"isRead": true
 	}, {
 		"id": 5,
 		"image": "baseline_lightbulb_circle_24",
@@ -60,8 +44,7 @@
 		"status": "Text",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
-		"isRead": false,
-		"aditionalInfo": null
+		"isRead": false
 	}, {
 		"id": 6,
 		"image": "baseline_lightbulb_circle_24",
@@ -70,8 +53,7 @@
 		"status": "Text",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
-		"isRead": true,
-		"aditionalInfo": null
+		"isRead": true
 	}, {
 		"id": 7,
 		"image": "baseline_lightbulb_circle_24",
@@ -80,8 +62,7 @@
 		"status": "Text",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
-		"isRead": true,
-		"aditionalInfo": null
+		"isRead": true
 	}, {
 		"id": 8,
 		"image": "baseline_lightbulb_circle_24",
@@ -90,7 +71,6 @@
 		"status": "Text",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
-		"isRead": false,
-		"aditionalInfo": null
+		"isRead": false
 	}
 ]
