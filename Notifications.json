@@ -1,95 +1,96 @@
 [
-{
-  "id": 1,
-  "image": "baseline_lightbulb_circle_24",
-  "devicesMessage": "Device",
-  "message": "Kitchen lamp turned off",
-  "status": "Text",
-  "timeMessage": "5m ago",
-  "userMessage": "John",
-  "isRead": false,
-  "aditionalInfo": [{
+	{
+		"id": 1,
+		"image": "baseline_lightbulb_circle_24",
+		"devicesMessage": "Device",
+		"message": "Kitchen lamp turned off",
+		"status": "Text",
+		"timeMessage": "5m ago",
+		"userMessage": "John",
+		"isRead": false,
+		"aditionalInfo": [{
 			"info": "info",
 			"infoAnswer": "answer"
 		}, {
 			"info1": "info1",
 			"infoAnswer1": "answer1"
 		}]
-},
-{
-  "id": 2,
-  "image": "baseline_lightbulb_circle_24",
-  "devicesMessage": "Device",
-  "message": "Kitchen lamp turned on",
-  "status": "Text",
-  "timeMessage": "5m ago",
-  "userMessage": "John",
-  "isRead": true,"aditionalInfo": [{
+	},
+	{
+		"id": 2,
+		"image": "baseline_lightbulb_circle_24",
+		"devicesMessage": "Device",
+		"message": "Kitchen lamp turned on",
+		"status": "Text",
+		"timeMessage": "5m ago",
+		"userMessage": "John",
+		"isRead": true,
+		"aditionalInfo": [{
 			"info": "info",
 			"infoAnswer": "answer"
 		}, {
 			"info1": "info1",
 			"infoAnswer1": "answer1"
 		}]
-},{
-  "id": 3,
-  "image": "baseline_lightbulb_circle_24",
-  "devicesMessage": "Device",
-  "message": "Kitchen lamp turned off1",
-  "status": "Text",
-  "timeMessage": "5m ago",
-  "userMessage": "John",
-  "isRead": false,
-  "aditionalInfo": null
-},{
-  "id": 4,
-  "image": "baseline_lightbulb_circle_24",
-  "devicesMessage": "Device",
-  "message": "Kitchen lamp turned on1",
-  "status": "Text",
-  "timeMessage": "5m ago",
-  "userMessage": "John",
-  "isRead": true,
-  "aditionalInfo": null
-},{
-  "id": 5,
-  "image": "baseline_lightbulb_circle_24",
-  "devicesMessage": "Device",
-  "message": "Kitchen lamp turned off2",
-  "status": "Text",
-  "timeMessage": "5m ago",
-  "userMessage": "John",
-  "isRead": false,
-  "aditionalInfo": null
-},{
-  "id": 6,
-  "image": "baseline_lightbulb_circle_24",
-  "devicesMessage": "Device",
-  "message": "Kitchen lamp turned on2",
-  "status": "Text",
-  "timeMessage": "5m ago",
-  "userMessage": "John",
-  "isRead": true,
-  "aditionalInfo": null
-},{
-  "id": 7,
-  "image": "baseline_lightbulb_circle_24",
-  "devicesMessage": "Device",
-  "message": "Kitchen lamp turned on3",
-  "status": "Text",
-  "timeMessage": "5m ago",
-  "userMessage": "John",
-  "isRead": true,
-  "aditionalInfo": null
-},{
-  "id": 8,
-  "image": "baseline_lightbulb_circle_24",
-  "devicesMessage": "Device",
-  "message": "Kitchen lamp turned off3",
-  "status": "Text",
-  "timeMessage": "5m ago",
-  "userMessage": "John",
-  "isRead": false,
-  "aditionalInfo": null
-}
+	}, {
+		"id": 3,
+		"image": "baseline_lightbulb_circle_24",
+		"devicesMessage": "Device",
+		"message": "Kitchen lamp turned off1",
+		"status": "Text",
+		"timeMessage": "5m ago",
+		"userMessage": "John",
+		"isRead": false,
+		"aditionalInfo": null
+	}, {
+		"id": 4,
+		"image": "baseline_lightbulb_circle_24",
+		"devicesMessage": "Device",
+		"message": "Kitchen lamp turned on1",
+		"status": "Text",
+		"timeMessage": "5m ago",
+		"userMessage": "John",
+		"isRead": true,
+		"aditionalInfo": null
+	}, {
+		"id": 5,
+		"image": "baseline_lightbulb_circle_24",
+		"devicesMessage": "Device",
+		"message": "Kitchen lamp turned off2",
+		"status": "Text",
+		"timeMessage": "5m ago",
+		"userMessage": "John",
+		"isRead": false,
+		"aditionalInfo": null
+	}, {
+		"id": 6,
+		"image": "baseline_lightbulb_circle_24",
+		"devicesMessage": "Device",
+		"message": "Kitchen lamp turned on2",
+		"status": "Text",
+		"timeMessage": "5m ago",
+		"userMessage": "John",
+		"isRead": true,
+		"aditionalInfo": null
+	}, {
+		"id": 7,
+		"image": "baseline_lightbulb_circle_24",
+		"devicesMessage": "Device",
+		"message": "Kitchen lamp turned on3",
+		"status": "Text",
+		"timeMessage": "5m ago",
+		"userMessage": "John",
+		"isRead": true,
+		"aditionalInfo": null
+	}, {
+		"id": 8,
+		"image": "baseline_lightbulb_circle_24",
+		"devicesMessage": "Device",
+		"message": "Kitchen lamp turned off3",
+		"status": "Text",
+		"timeMessage": "5m ago",
+		"userMessage": "John",
+		"isRead": false,
+		"aditionalInfo": null
+	}
 ]
