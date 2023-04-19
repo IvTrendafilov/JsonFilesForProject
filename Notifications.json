@@ -3,9 +3,10 @@
 		"image": "baseline_lightbulb_circle_24",
 		"devicesMessage": "Device",
 		"message": "Kitchen lamp turned off",
-		"status": "Text",
+		"status": "Urgent",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
+		"location" : "Kitchen",
 		"isRead": false,
 		"additionalInfo": [{
 				"info": "info",
@@ -22,6 +23,18 @@
 			{
 				"info": "info3",
 				"answer": "answer3"
+			},
+			{
+				"info": "info3",
+				"answer": "answer3"
+			},
+			{
+				"info": "info3",
+				"answer": "answer3"
+			},
+			{
+				"info": "info3",
+				"answer": "answer3"
 			}
 		]
 	},
@@ -30,13 +43,27 @@
 		"image": "baseline_lightbulb_circle_24",
 		"devicesMessage": "Device",
 		"message": "Kitchen lamp turned on",
-		"status": "Text",
+		"status": "Urgent",
 		"timeMessage": "5m ago",
+		"location" : "Living room",
 		"userMessage": "John",
+		
 		"isRead": true,
 		"additionalInfo": [{
 				"info": "info",
 				"answer": "answer"
+			},
+			{
+				"info": "info1",
+				"answer": "answer1"
+			},
+			{
+				"info": "info1",
+				"answer": "answer1"
+			},
+			{
+				"info": "info1",
+				"answer": "answer1"
 			},
 			{
 				"info": "info1",
@@ -48,13 +75,22 @@
 		"image": "baseline_lightbulb_circle_24",
 		"devicesMessage": "Device",
 		"message": "Kitchen lamp turned off1",
-		"status": "Text",
+		"status": "Important",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
+		"location" : "Bedroom",
 		"isRead": false,
 		"additionalInfo": [{
 				"info": "info",
 				"answer": "answer"
+			},
+			{
+				"info": "info1",
+				"answer": "answer1"
+			},
+			{
+				"info": "info1",
+				"answer": "answer1"
 			},
 			{
 				"info": "info1",
@@ -66,13 +102,18 @@
 		"image": "baseline_lightbulb_circle_24",
 		"devicesMessage": "Device",
 		"message": "Kitchen lamp turned on1",
-		"status": "Text",
+		"status": "Low priority",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
+		"location" : "Front door",
 		"isRead": true,
 		"additionalInfo": [{
 				"info": "info",
 				"answer": "answer"
+			},
+			{
+				"info": "info1",
+				"answer": "answer1"
 			},
 			{
 				"info": "info1",
@@ -84,9 +125,10 @@
 		"image": "baseline_lightbulb_circle_24",
 		"devicesMessage": "Device",
 		"message": "Kitchen lamp turned off2",
-		"status": "Text",
+		"status": "No priority",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
+		"location" : "Kitchen",
 		"isRead": false,
 		"additionalInfo": [{
 				"info": "info",
@@ -102,19 +144,25 @@
 		"image": "baseline_lightbulb_circle_24",
 		"devicesMessage": "Device",
 		"message": "Kitchen lamp turned on2",
-		"status": "Text",
+		"status": "No priority",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
+		"location" : "Kitchen",
 		"isRead": true,
-		"additionalInfo": null
+		"additionalInfo": [{
+				"info": "info",
+				"answer": "answer"
+			}
+		]
 	}, {
 		"id": 7,
 		"image": "baseline_lightbulb_circle_24",
 		"devicesMessage": "Device",
 		"message": "Kitchen lamp turned on3",
-		"status": "Text",
+		"status": "No priority",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
+		"location" : "Kitchen",
 		"isRead": true,
 		"additionalInfo": null
 	}, {
@@ -122,9 +170,10 @@
 		"image": "baseline_lightbulb_circle_24",
 		"devicesMessage": "Device",
 		"message": "Kitchen lamp turned off3",
-		"status": "Text",
+		"status": "Mid priority",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
+		"location" : "Kitchen",
 		"isRead": false,
 		"additionalInfo": null
 	}
