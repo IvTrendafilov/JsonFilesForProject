@@ -9,20 +9,20 @@
 		"location" : "Kitchen",
 		"isRead": false,
 		"additionalInfo": [{
-				"info": "info",
-				"answer": "answer"
+				"info": "issue",
+				"answer": "no power"
 			},
 			{
-				"info": "info1",
-				"answer": "answer1"
+				"info": "additional issue information",
+				"answer": "overheat of bulb"
 			},
 			{
-				"info": "info2",
-				"answer": "answer2"
+				"info": "solution",
+				"answer": "change bulb"
 			},
 			{
-				"info": "info3",
-				"answer": "answer3"
+				"info": "prevention",
+				"answer": "keep lamp turned off during off hours"
 			},
 			{
 				"info": "info3",
