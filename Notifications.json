@@ -13,7 +13,7 @@
 				"answer": "no power"
 			},
 			{
-				"info": "additional issue information",
+				"info": "issue information",
 				"answer": "overheat of bulb"
 			},
 			{
@@ -21,8 +21,8 @@
 				"answer": "change bulb"
 			},
 			{
-				"info": "prevention",
-				"answer": "keep lamp turned off during off hours"
+				"info": "info2",
+				"answer": "answer2"
 			},
 			{
 				"info": "info3",
