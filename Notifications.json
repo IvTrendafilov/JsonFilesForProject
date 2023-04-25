@@ -132,7 +132,7 @@
 		"isRead": false,
 		"additionalInfo": [{
 				"label": "info",
-				"answer": "answer"
+				"value": "answer"
 			},
 			{
 				"label": "info1",
