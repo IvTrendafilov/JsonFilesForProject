@@ -5,7 +5,36 @@
 	"deviceName": "Camera",
 	"descriptionMessage": "Kitchen camera",
 	"status": "On",
-	"deviceImage": "baseline_lightbulb_circle_24"
+	"deviceImage": "baseline_lightbulb_circle_24",
+	"additionalInfo": [{
+				"label": "issue",
+				"value": "no power"
+			},
+			{
+				"label": "issue information",
+				"value": "overheat of bulb"
+			},
+			{
+				"label": "solution",
+				"value": "change bulb"
+			},
+			{
+				"label": "info2",
+				"value": "answer2"
+			},
+			{
+				"label": "info3",
+				"value": "answer3"
+			},
+			{
+				"label": "info3",
+				"value": "answer3"
+			},
+			{
+				"label": "info3",
+				"value": "answer3"
+			}
+		]
 },
 {
 	"id": 2,
@@ -13,7 +42,20 @@
     "deviceName": "Tv",
     "descriptionMessage": "Kitchen tv",
 	"status": "On",
-	"deviceImage": "baseline_lightbulb_circle_24"
+	"deviceImage": "baseline_lightbulb_circle_24",
+	"additionalInfo": [{
+				"label": "issue",
+				"value": "no power"
+			},
+			{
+				"label": "issue information",
+				"value": "overheat of bulb"
+			},
+			{
+				"label": "solution",
+				"value": "change bulb"
+			}
+		]
 },
 {
 	"id": 3,
@@ -21,7 +63,28 @@
     "deviceName": "Lamp",
     "descriptionMessage": "Kitchen lamp",
 	"status": "On",
-	"deviceImage": "baseline_lightbulb_circle_24"
+	"deviceImage": "baseline_lightbulb_circle_24",
+	"additionalInfo": [{
+				"label": "issue",
+				"value": "no power"
+			},
+			{
+				"label": "issue information",
+				"value": "overheat of bulb"
+			},
+			{
+				"label": "solution",
+				"value": "change bulb"
+			},
+			{
+				"label": "info2",
+				"value": "answer2"
+			},
+			{
+				"label": "info3",
+				"value": "answer3"
+			}
+		]
 },
 {
 	"id": 4,
@@ -29,7 +92,20 @@
     "deviceName": "Camera",
     "descriptionMessage": "Living room camera",
 	"status": "On",
-	"deviceImage": "baseline_lightbulb_circle_24"
+	"deviceImage": "baseline_lightbulb_circle_24",
+	"additionalInfo": [{
+				"label": "issue",
+				"value": "no power"
+			},
+			{
+				"label": "issue information",
+				"value": "overheat of bulb"
+			},
+			{
+				"label": "solution",
+				"value": "change bulb"
+			}
+		]
 },
 {
 	"id": 5,
@@ -37,7 +113,8 @@
     "deviceName": "Tv",
     "descriptionMessage": "Living room tv",
 	"status": "On",
-	"deviceImage": "baseline_lightbulb_circle_24"
+	"deviceImage": "baseline_lightbulb_circle_24",
+	"additionalInfo": null
 },
 {
 	"id": 6,
@@ -45,7 +122,8 @@
     "deviceName": "Lamp",
     "descriptionMessage": "Living room lamp",
 	"status": "On",
-	"deviceImage": "baseline_lightbulb_circle_24"
+	"deviceImage": "baseline_lightbulb_circle_24",
+	"additionalInfo": null
 },
 {
 	"id": 7,
@@ -53,7 +131,8 @@
     "deviceName": "Camera",
     "descriptionMessage": "Bedroom camera",
 	"status": "On",
-	"deviceImage": "baseline_lightbulb_circle_24"
+	"deviceImage": "baseline_lightbulb_circle_24",
+	"additionalInfo": null
 },
 {
 	"id": 8,
@@ -61,7 +140,8 @@
     "deviceName": "Tv",
     "descriptionMessage": "Bedroom tv",
 	"status": "On",
-	"deviceImage": "baseline_lightbulb_circle_24"
+	"deviceImage": "baseline_lightbulb_circle_24",
+	"additionalInfo": null
 },
 {
 	"id": 9,
@@ -69,6 +149,7 @@
     "deviceName": "Lamp",
     "descriptionMessage": "Bedroom lamp",
 	"status": "On",
-	"deviceImage": "baseline_lightbulb_circle_24"
+	"deviceImage": "baseline_lightbulb_circle_24",
+	"additionalInfo": null
 }
 ]
