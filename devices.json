@@ -62,7 +62,7 @@
     "alertImage": "baseline_star_border_24",
     "deviceName": "Lamp",
     "descriptionMessage": "Kitchen lamp",
-	"status": "On",
+	"status": "Off",
 	"deviceImage": "baseline_lightbulb_circle_24",
 	"additionalInfo": [{
 				"label": "issue",
@@ -112,7 +112,7 @@
     "alertImage": "baseline_star_border_24",
     "deviceName": "Tv",
     "descriptionMessage": "Living room tv",
-	"status": "On",
+	"status": "Off",
 	"deviceImage": "baseline_lightbulb_circle_24",
 	"additionalInfo": null
 },
@@ -130,7 +130,7 @@
     "alertImage": "baseline_star_border_24",
     "deviceName": "Camera",
     "descriptionMessage": "Bedroom camera",
-	"status": "On",
+	"status": "Off",
 	"deviceImage": "baseline_lightbulb_circle_24",
 	"additionalInfo": null
 },
@@ -148,7 +148,7 @@
     "alertImage": "baseline_star_border_24",
     "deviceName": "Lamp",
     "descriptionMessage": "Bedroom lamp",
-	"status": "On",
+	"status": "Off",
 	"deviceImage": "baseline_lightbulb_circle_24",
 	"additionalInfo": null
 }
