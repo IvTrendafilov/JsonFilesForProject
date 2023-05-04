@@ -6,8 +6,12 @@
 		"status": "Urgent",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
-		"location" : "Kitchen",
+		"location": "Kitchen",
 		"isRead": false,
+		"latitude":42.164118420892386 ,
+		"longitude":24.74351378103829 ,
+		"startAngle": 8,
+		"segmentAngle": 80 ,
 		"additionalInfo": [{
 				"label": "issue",
 				"value": "no power"
@@ -45,10 +49,13 @@
 		"message": "Kitchen lamp turned on",
 		"status": "Urgent",
 		"timeMessage": "5m ago",
-		"location" : "Living room",
+		"location": "Living room",
 		"userMessage": "John",
-		
 		"isRead": true,
+		"latitude":42.14742311156778 ,
+		"longitude":24.718625734415742 ,
+		"startAngle": 50,
+		"segmentAngle": 120 ,
 		"additionalInfo": [{
 				"label": "info",
 				"value": "answer"
@@ -78,8 +85,12 @@
 		"status": "Important",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
-		"location" : "Bedroom",
+		"location": "Bedroom",
 		"isRead": false,
+		"latitude":42.13451609301191 ,
+		"longitude":24.72666180507137 ,
+		"startAngle": 32,
+		"segmentAngle": 63 ,
 		"additionalInfo": [{
 				"label": "info",
 				"value": "answer"
@@ -105,8 +116,12 @@
 		"status": "Low priority",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
-		"location" : "Front door",
+		"location": "Front door",
 		"isRead": true,
+		"latitude":42.650871 ,
+		"longitude":23.379489 ,
+		"startAngle": 69,
+		"segmentAngle": 52 ,
 		"additionalInfo": [{
 				"label": "info",
 				"value": "answer"
@@ -128,8 +143,12 @@
 		"status": "No priority",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
-		"location" : "Kitchen",
+		"location": "Kitchen",
 		"isRead": false,
+		"latitude":42.164118420892386 ,
+		"longitude":24.74351378103829 ,
+		"startAngle": 12,
+		"segmentAngle": 42 ,
 		"additionalInfo": [{
 				"label": "info",
 				"value": "answer"
@@ -147,13 +166,16 @@
 		"status": "No priority",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
-		"location" : "Kitchen",
+		"location": "Kitchen",
 		"isRead": true,
+		"latitude":42.14742311156778 ,
+		"longitude":24.718625734415742 ,
+		"startAngle": 2,
+		"segmentAngle": 90 ,
 		"additionalInfo": [{
-				"label": "info",
-				"value": "answer"
-			}
-		]
+			"label": "info",
+			"value": "answer"
+		}]
 	}, {
 		"id": 7,
 		"image": "baseline_lightbulb_circle_24",
@@ -162,8 +184,12 @@
 		"status": "No priority",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
-		"location" : "Kitchen",
+		"location": "Kitchen",
 		"isRead": true,
+		"latitude":42.13451609301191 ,
+		"longitude":24.72666180507137 ,
+		"startAngle": 64,
+		"segmentAngle": 32 ,
 		"additionalInfo": null
 	}, {
 		"id": 8,
@@ -173,8 +199,12 @@
 		"status": "Mid priority",
 		"timeMessage": "5m ago",
 		"userMessage": "John",
-		"location" : "Kitchen",
+		"location": "Kitchen",
 		"isRead": false,
+		"latitude":42.164118420892386 ,
+		"longitude":24.74351378103829 ,
+		"startAngle": 22,
+		"segmentAngle": 72 ,
 		"additionalInfo": null
 	}
 ]
