@@ -193,10 +193,10 @@
 		"location": "Kitchen",
 		"isRead": true,
 		"radius": 40.0,
-		"latitude":42.13451609301191 ,
-		"longitude":24.72666180507137 ,
-		"startAngle": 64,
-		"segmentAngle": 32 ,
+		"latitude":null ,
+		"longitude":null ,
+		"startAngle": null,
+		"segmentAngle": null ,
 		"additionalInfo": null
 	}, {
 		"id": 8,
