@@ -11,8 +11,8 @@
 		"radius": 25.0,
 		"latitude":42.164118420892386 ,
 		"longitude":24.74351378103829 ,
-		"startAngle": 8,
-		"segmentAngle": 80 ,
+		"startAngle": 0,
+		"segmentAngle": 90 ,
 		"additionalInfo": [{
 				"label": "issue",
 				"value": "no power"
