@@ -1,218 +1,91 @@
 [{
-		"id": 1,
-		"image": "baseline_lightbulb_circle_24",
-		"devicesMessage": "Device",
-		"message": "Kitchen lamp turned off",
-		"status": "Urgent",
-		"timeMessage": "5m ago",
-		"userMessage": "John",
-		"location": "Kitchen",
-		"isRead": false,
-		"radius": 25.0,
+		"id": "beorgefge",
+		"timestamp": "2023-03-17 10:05:38.132",
 		"latitude":42.164118420892386 ,
 		"longitude":24.74351378103829 ,
+		"detectionRadius": 25.0,
+		"type": "movement",
+		"description": "movement was detected",
 		"startAngle": 0,
-		"segmentAngle": -90 ,
-		"additionalInfo": [{
-				"label": "issue",
-				"value": "no power"
-			},
-			{
-				"label": "issue information",
-				"value": "overheat of bulb"
-			},
-			{
-				"label": "solution",
-				"value": "change bulb"
-			},
-			{
-				"label": "info2",
-				"value": "answer2"
-			},
-			{
-				"label": "info3",
-				"value": "answer3"
-			},
-			{
-				"label": "info3",
-				"value": "answer3"
-			},
-			{
-				"label": "info3",
-				"value": "answer3"
-			}
-		]
+		"segmentAngle": 90 ,
+		"confidence": 5.2
 	},
 	{
-		"id": 2,
-		"image": "baseline_lightbulb_circle_24",
-		"devicesMessage": "Device",
-		"message": "Kitchen lamp turned on",
-		"status": "Urgent",
-		"timeMessage": "5m ago",
-		"location": "Living room",
-		"userMessage": "John",
-		"isRead": true,
-		"radius": 35.0,
-		"latitude":42.14742311156778 ,
-		"longitude":24.718625734415742 ,
-		"startAngle": 50,
-		"segmentAngle": 120 ,
-		"additionalInfo": [{
-				"label": "info",
-				"value": "answer"
-			},
-			{
-				"label": "info1",
-				"value": "answer1"
-			},
-			{
-				"label": "info1",
-				"value": "answer1"
-			},
-			{
-				"label": "info1",
-				"value": "answer1"
-			},
-			{
-				"label": "info1",
-				"value": "answer1"
-			}
-		]
+		"id": "borgefge",
+		"timestamp": "2023-03-17 10:05:38.132",
+		"latitude":42.164118420892386 ,
+		"longitude":24.74351378103829 ,
+		"detectionRadius": 25.0,
+		"type": "movement",
+		"description": "movement was detected",
+		"startAngle": 14,
+		"segmentAngle": 30 ,
+		"confidence": 5.2
 	}, {
-		"id": 3,
-		"image": "baseline_lightbulb_circle_24",
-		"devicesMessage": "Device",
-		"message": "Kitchen lamp turned off1",
-		"status": "Important",
-		"timeMessage": "5m ago",
-		"userMessage": "John",
-		"location": "Bedroom",
-		"isRead": false,
-		"radius": 15.0,
-		"latitude":42.13451609301191 ,
-		"longitude":24.72666180507137 ,
+		"id": "beorgefg",
+		"timestamp": "2023-03-17 10:05:38.132",
+		"latitude":42.164118420892386 ,
+		"longitude":24.74351378103829 ,
+		"detectionRadius": 25.0,
+		"type": "movement",
+		"description": "movement was detected",
+		"startAngle": 0,
+		"segmentAngle": 40 ,
+		"confidence": 5.2
+	}, {
+		"id": "beorgeg",
+		"timestamp": "2023-03-17 10:05:38.132",
+		"latitude":42.164118420892386 ,
+		"longitude":24.74351378103829 ,
+		"detectionRadius": 25.0,
+		"type": "movement",
+		"description": "movement was detected",
+		"startAngle": 45,
+		"segmentAngle": 20 ,
+		"confidence": 5.2
+	}, {
+		"id": "bgefg",
+		"timestamp": "2023-03-17 10:05:38.132",
+		"latitude":42.164118420892386 ,
+		"longitude":24.74351378103829 ,
+		"detectionRadius": 25.0,
+		"type": "movement",
+		"description": "movement was detected",
+		"startAngle": 10,
+		"segmentAngle": 87 ,
+		"confidence": 5.2
+	}, {
+		"id": "bezdefg",
+		"timestamp": "2023-03-17 10:05:38.132",
+		"latitude":42.164118420892386 ,
+		"longitude":24.74351378103829 ,
+		"detectionRadius": 25.0,
+		"type": "movement",
+		"description": "movement was detected",
 		"startAngle": 32,
-		"segmentAngle": 63 ,
-		"additionalInfo": [{
-				"label": "info",
-				"value": "answer"
-			},
-			{
-				"label": "info1",
-				"value": "answer1"
-			},
-			{
-				"label": "info1",
-				"value": "answer1"
-			},
-			{
-				"label": "info1",
-				"value": "answer1"
-			}
-		]
+		"segmentAngle": 98 ,
+		"confidence": 5.2
 	}, {
-		"id": 4,
-		"image": "baseline_lightbulb_circle_24",
-		"devicesMessage": "Device",
-		"message": "Kitchen lamp turned on1",
-		"status": "Low priority",
-		"timeMessage": "5m ago",
-		"userMessage": "John",
-		"location": "Front door",
-		"isRead": true,
-		"radius": 45.0,
-		"latitude":42.650871 ,
-		"longitude":23.379489 ,
-		"startAngle": 69,
-		"segmentAngle": 52 ,
-		"additionalInfo": [{
-				"label": "info",
-				"value": "answer"
-			},
-			{
-				"label": "info1",
-				"value": "answer1"
-			},
-			{
-				"label": "info1",
-				"value": "answer1"
-			}
-		]
-	}, {
-		"id": 5,
-		"image": "baseline_lightbulb_circle_24",
-		"devicesMessage": "Device",
-		"message": "Kitchen lamp turned off2",
-		"status": "No priority",
-		"timeMessage": "5m ago",
-		"userMessage": "John",
-		"location": "Kitchen",
-		"isRead": false,
-		"radius": 25.0,
+		"id": "beorsazgefg",
+		"timestamp": "2023-03-17 10:05:38.132",
 		"latitude":42.164118420892386 ,
 		"longitude":24.74351378103829 ,
-		"startAngle": 12,
-		"segmentAngle": 42 ,
-		"additionalInfo": [{
-				"label": "info",
-				"value": "answer"
-			},
-			{
-				"label": "info1",
-				"value": "answer1"
-			}
-		]
+		"detectionRadius": 25.0,
+		"type": "movement",
+		"description": "movement was detected",
+		"startAngle": 87,
+		"segmentAngle": 45 ,
+		"confidence": 5.2
 	}, {
-		"id": 6,
-		"image": "baseline_lightbulb_circle_24",
-		"devicesMessage": "Device",
-		"message": "Kitchen lamp turned on2",
-		"status": "No priority",
-		"timeMessage": "5m ago",
-		"userMessage": "John",
-		"location": "Kitchen",
-		"isRead": true,
-		"radius": 30.0,
-		"latitude":42.14742311156778 ,
-		"longitude":24.718625734415742 ,
-		"startAngle": 2,
-		"segmentAngle": 90 ,
-		"additionalInfo": [{
-			"label": "info",
-			"value": "answer"
-		}]
-	}, {
-		"id": 7,
-		"image": "baseline_lightbulb_circle_24",
-		"devicesMessage": "Device",
-		"message": "Kitchen lamp turned on3",
-		"status": "No priority",
-		"timeMessage": "5m ago",
-		"userMessage": "John",
-		"location": "Kitchen",
-		"isRead": true,
-		"radius": 40.0,
-		"latitude":42.164118420892386,
-		"longitude":24.74351378103829 ,
-		"startAngle": null,
-		"segmentAngle": null ,
-		"additionalInfo": null
-	}, {
-		"id": 8,
-		"image": "baseline_lightbulb_circle_24",
-		"devicesMessage": "Device",
-		"message": "Kitchen lamp turned off3",
-		"status": "Mid priority",
-		"timeMessage": "5m ago",
-		"userMessage": "John",
-		"location": "Kitchen",
-		"isRead": false,
-		"radius": 50.0,
+		"id": "beojlirgefg",
+		"timestamp": "2023-03-17 10:05:38.132",
 		"latitude":42.164118420892386 ,
 		"longitude":24.74351378103829 ,
-		"startAngle": 22,
-		"segmentAngle": 72 ,
-		"additionalInfo": null
+		"detectionRadius": 25.0,
+		"type": "movement",
+		"description": "movement was detected",
+		"startAngle": 55,
+		"segmentAngle": 55 ,
+		"confidence": 5.2
 	}
 ]
