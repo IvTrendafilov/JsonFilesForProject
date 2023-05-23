@@ -1,6 +1,6 @@
 [{
 		"id": "beorgefge",
-		"timestamp": "2023-05-22T09:37:38.132Z",
+		"timestamp": "2023-05-22 09:37:38.132",
 		"latitude":42.164118420892386 ,
 		"longitude":24.74351378103829 ,
 		"detectionRadius": 25.0,
@@ -12,7 +12,7 @@
 	},
 	{
 		"id": "borgefge",
-		"timestamp": "2023-05-22T09:20:38.132Z",
+		"timestamp": "2023-05-22 09:20:38.132",
 		"latitude":42.164118420892386 ,
 		"longitude":24.74351378103829 ,
 		"detectionRadius": 25.0,
@@ -23,7 +23,7 @@
 		"confidence": 5.2
 	}, {
 		"id": "beorgefg",
-		"timestamp": "2023-05-21T10:05:38.132Z",
+		"timestamp": "2023-05-21 10:05:38.132",
 		"latitude":42.164118420892386 ,
 		"longitude":24.74351378103829 ,
 		"detectionRadius": 25.0,
@@ -34,7 +34,7 @@
 		"confidence": 5.2
 	}, {
 		"id": "beorgeg",
-		"timestamp": "2023-03-17T10:05:38.132Z",
+		"timestamp": "2023-03-17 10:05:38.132",
 		"latitude":42.164118420892386 ,
 		"longitude":24.74351378103829 ,
 		"detectionRadius": 25.0,
@@ -45,7 +45,7 @@
 		"confidence": 5.2
 	}, {
 		"id": "bgefg",
-		"timestamp": "2023-03-17T10:05:38.132Z",
+		"timestamp": "2023-03-17 10:05:38.132",
 		"latitude":42.164118420892386 ,
 		"longitude":24.74351378103829 ,
 		"detectionRadius": 25.0,
@@ -56,7 +56,7 @@
 		"confidence": 5.2
 	}, {
 		"id": "bezdefg",
-		"timestamp": "2023-03-17T10:05:38.132Z",
+		"timestamp": "2023-03-17 10:05:38.132",
 		"latitude":42.164118420892386 ,
 		"longitude":24.74351378103829 ,
 		"detectionRadius": 25.0,
@@ -67,7 +67,7 @@
 		"confidence": 5.2
 	}, {
 		"id": "beorsazgefg",
-		"timestamp": "2023-03-17T10:05:38.132Z",
+		"timestamp": "2023-03-17 10:05:38.132",
 		"latitude":42.164118420892386 ,
 		"longitude":24.74351378103829 ,
 		"detectionRadius": 25.0,
@@ -78,7 +78,7 @@
 		"confidence": 5.2
 	}, {
 		"id": "beojlirgefg",
-		"timestamp": "2023-03-17T10:05:38.132Z",
+		"timestamp": "2023-03-17 10:05:38.132",
 		"latitude":42.164118420892386 ,
 		"longitude":24.74351378103829 ,
 		"detectionRadius": 25.0,
