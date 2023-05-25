@@ -5,7 +5,7 @@
 		"longitude":24.74351378103829 ,
 		"detectionRadius": 25.0,
 		"type": "Movement",
-		"description": "movement was detected",
+		"description": "Movement was detected",
 		"startAngle": 0,
 		"segmentAngle": 90 ,
 		"confidence": 5.2
@@ -17,7 +17,7 @@
 		"longitude":24.74351378103829 ,
 		"detectionRadius": 25.0,
 		"type": "Movement",
-		"description": "movement was detected",
+		"description": "Movement detected",
 		"startAngle": 14,
 		"segmentAngle": 30 ,
 		"confidence": 5.2
@@ -28,7 +28,7 @@
 		"longitude":24.74351378103829 ,
 		"detectionRadius": 25.0,
 		"type": "Ringing",
-		"description": "movement was detected",
+		"description": "Doorbell rang",
 		"startAngle": 0,
 		"segmentAngle": 40 ,
 		"confidence": 5.2
@@ -39,7 +39,7 @@
 		"longitude":24.74351378103829 ,
 		"detectionRadius": 25.0,
 		"type": "Ringing",
-		"description": "movement was detected",
+		"description": "Doorbell rang",
 		"startAngle": 45,
 		"segmentAngle": 20 ,
 		"confidence": 5.2
@@ -50,7 +50,7 @@
 		"longitude":24.74351378103829 ,
 		"detectionRadius": 25.0,
 		"type": "Movement",
-		"description": "movement was detected",
+		"description": "Movement detected",
 		"startAngle": 10,
 		"segmentAngle": 87 ,
 		"confidence": 5.2
@@ -61,7 +61,7 @@
 		"longitude":24.74351378103829 ,
 		"detectionRadius": 25.0,
 		"type": "Random",
-		"description": "movement was detected",
+		"description": "Temperature under 20",
 		"startAngle": 32,
 		"segmentAngle": 98 ,
 		"confidence": 5.2
@@ -72,7 +72,7 @@
 		"longitude":24.74351378103829 ,
 		"detectionRadius": 25.0,
 		"type": "Random",
-		"description": "movement was detected",
+		"description": "Tv turned off",
 		"startAngle": 87,
 		"segmentAngle": 45 ,
 		"confidence": 5.2
@@ -83,7 +83,7 @@
 		"longitude":24.74351378103829 ,
 		"detectionRadius": 25.0,
 		"type": "Random",
-		"description": "movement was detected",
+		"description": "Lamp turned on",
 		"startAngle": 55,
 		"segmentAngle": 55 ,
 		"confidence": 5.2
