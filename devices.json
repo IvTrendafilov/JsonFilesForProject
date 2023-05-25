@@ -1,11 +1,15 @@
 [
 {
-	"id": 1,
-	"alertImage": "baseline_star_border_24",
-	"deviceName": "Camera",
-	"descriptionMessage": "Kitchen camera",
-	"status": "On",
-	"deviceImage": "baseline_lightbulb_circle_24",
+	"id": "sadzdasd",
+	"created_at": "2023-05-17 10:05:38.132",
+	"updated_at": "2023-05-25 10:05:38.132",
+	"device_name": "Camera",
+	"group_name": "main group",
+	"last_known_latitude": "42.65138263199878", 
+	"last_known_longtitude": "23.379334768745114",
+	"last_active_at": "2023-05-25 11:32:08.012",
+	"software_version": "1.5.3",
+	"hardware_version": "0.1.1",
 	"additionalInfo": [{
 				"label": "issue",
 				"value": "no power"
@@ -37,33 +41,16 @@
 		]
 },
 {
-	"id": 2,
-    "alertImage": "baseline_star_border_24",
-    "deviceName": "Tv",
-    "descriptionMessage": "Kitchen tv",
-	"status": "On",
-	"deviceImage": "baseline_lightbulb_circle_24",
-	"additionalInfo": [{
-				"label": "issue",
-				"value": "no power"
-			},
-			{
-				"label": "issue information",
-				"value": "overheat of bulb"
-			},
-			{
-				"label": "solution",
-				"value": "change bulb"
-			}
-		]
-},
-{
-	"id": 3,
-    "alertImage": "baseline_star_border_24",
-    "deviceName": "Lamp",
-    "descriptionMessage": "Kitchen lamp",
-	"status": "Off",
-	"deviceImage": "baseline_lightbulb_circle_24",
+	"id": "sadzdasd1",
+	"created_at": "2023-05-17 10:05:38.132",
+	"updated_at": "2023-05-25 10:05:38.132",
+	"device_name": "Camera",
+	"group_name": "main group",
+	"last_known_latitude": "42.65138263199878", 
+	"last_known_longtitude": "23.379334768745114",
+	"last_active_at": "2023-05-25 11:32:08.012",
+	"software_version": "1.5.3",
+	"hardware_version": "0.1.1",
 	"additionalInfo": [{
 				"label": "issue",
 				"value": "no power"
@@ -83,16 +70,24 @@
 			{
 				"label": "info3",
 				"value": "answer3"
-			}
+			},
+			{
+				"label": "info3",
+				"value": "answer3"
+			},
 		]
 },
 {
-	"id": 4,
-    "alertImage": "baseline_star_border_24",
-    "deviceName": "Camera",
-    "descriptionMessage": "Living room camera",
-	"status": "On",
-	"deviceImage": "baseline_lightbulb_circle_24",
+	"id": "sadzdasd2",
+	"created_at": "2023-05-17 10:05:38.132",
+	"updated_at": "2023-05-25 10:05:38.132",
+	"device_name": "Camera",
+	"group_name": "main group",
+	"last_known_latitude": "42.65138263199878", 
+	"last_known_longtitude": "23.379334768745114",
+	"last_active_at": "2023-05-25 11:32:08.012",
+	"software_version": "1.5.3",
+	"hardware_version": "0.1.1",
 	"additionalInfo": [{
 				"label": "issue",
 				"value": "no power"
@@ -104,52 +99,105 @@
 			{
 				"label": "solution",
 				"value": "change bulb"
-			}
+			},
 		]
 },
 {
-	"id": 5,
-    "alertImage": "baseline_star_border_24",
-    "deviceName": "Tv",
-    "descriptionMessage": "Living room tv",
-	"status": "Off",
-	"deviceImage": "baseline_lightbulb_circle_24",
+	"id": "sadzdasd3",
+	"created_at": "2023-05-17 10:05:38.132",
+	"updated_at": "2023-05-25 10:05:38.132",
+	"device_name": "Camera",
+	"group_name": "main group",
+	"last_known_latitude": "42.65138263199878", 
+	"last_known_longtitude": "23.379334768745114",
+	"last_active_at": "2023-05-25 11:32:08.012",
+	"software_version": "1.5.3",
+	"hardware_version": "0.1.1",
+	"additionalInfo": [{
+				"label": "issue",
+				"value": "no power"
+			},
+			{
+				"label": "issue information",
+				"value": "overheat of bulb"
+			},
+			{
+				"label": "solution",
+				"value": "change bulb"
+			},
+			{
+				"label": "info2",
+				"value": "answer2"
+			},
+		]
+},
+{
+	"id": "sadzdasd4",
+	"created_at": "2023-05-17 10:05:38.132",
+	"updated_at": "2023-05-25 10:05:38.132",
+	"device_name": "Camera",
+	"group_name": "main group",
+	"last_known_latitude": "42.65138263199878", 
+	"last_known_longtitude": "23.379334768745114",
+	"last_active_at": "2023-05-25 11:32:08.012",
+	"software_version": "1.5.3",
+	"hardware_version": "0.1.1",
 	"additionalInfo": null
 },
 {
-	"id": 6,
-    "alertImage": "baseline_star_border_24",
-    "deviceName": "Lamp",
-    "descriptionMessage": "Living room lamp",
-	"status": "On",
-	"deviceImage": "baseline_lightbulb_circle_24",
+	"id": "sadzdasd5",
+	"created_at": "2023-05-17 10:05:38.132",
+	"updated_at": "2023-05-25 10:05:38.132",
+	"device_name": "Camera",
+	"group_name": "main group",
+	"last_known_latitude": "42.65138263199878", 
+	"last_known_longtitude": "23.379334768745114",
+	"last_active_at": "2023-05-25 11:32:08.012",
+	"software_version": "1.5.3",
+	"hardware_version": "0.1.1",
 	"additionalInfo": null
 },
 {
-	"id": 7,
-    "alertImage": "baseline_star_border_24",
-    "deviceName": "Camera",
-    "descriptionMessage": "Bedroom camera",
-	"status": "Off",
-	"deviceImage": "baseline_lightbulb_circle_24",
+	"id": "sadzdasd6",
+	"created_at": "2023-05-17 10:05:38.132",
+	"updated_at": "2023-05-25 10:05:38.132",
+	"device_name": "Camera",
+	"group_name": "main group",
+	"last_known_latitude": "42.65138263199878", 
+	"last_known_longtitude": "23.379334768745114",
+	"last_active_at": "2023-05-25 11:32:08.012",
+	"software_version": "1.5.3",
+	"hardware_version": "0.1.1",
+	"additionalInfo": [{
+				"label": "issue",
+				"value": "no power"
+			},
+		]
+},
+{
+	"id": "sadzdasd7",
+	"created_at": "2023-05-17 10:05:38.132",
+	"updated_at": "2023-05-25 10:05:38.132",
+	"device_name": "Camera",
+	"group_name": "main group",
+	"last_known_latitude": "42.65138263199878", 
+	"last_known_longtitude": "23.379334768745114",
+	"last_active_at": "2023-05-25 11:32:08.012",
+	"software_version": "1.5.3",
+	"hardware_version": "0.1.1",
 	"additionalInfo": null
 },
 {
-	"id": 8,
-    "alertImage": "baseline_star_border_24",
-    "deviceName": "Tv",
-    "descriptionMessage": "Bedroom tv",
-	"status": "On",
-	"deviceImage": "baseline_lightbulb_circle_24",
-	"additionalInfo": null
-},
-{
-	"id": 9,
-    "alertImage": "baseline_star_border_24",
-    "deviceName": "Lamp",
-    "descriptionMessage": "Bedroom lamp",
-	"status": "Off",
-	"deviceImage": "baseline_lightbulb_circle_24",
+	"id": "sadzdasd8",
+	"created_at": "2023-05-17 10:05:38.132",
+	"updated_at": "2023-05-25 10:05:38.132",
+	"device_name": "Camera",
+	"group_name": "main group",
+	"last_known_latitude": "42.65138263199878", 
+	"last_known_longtitude": "23.379334768745114",
+	"last_active_at": "2023-05-25 11:32:08.012",
+	"software_version": "1.5.3",
+	"hardware_version": "0.1.1",
 	"additionalInfo": null
 }
 ]
