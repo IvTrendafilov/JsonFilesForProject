@@ -74,7 +74,7 @@
 			{
 				"label": "info3",
 				"value": "answer3"
-			},
+			}
 		]
 },
 {
@@ -99,7 +99,7 @@
 			{
 				"label": "solution",
 				"value": "change bulb"
-			},
+			}
 		]
 },
 {
@@ -128,7 +128,7 @@
 			{
 				"label": "info2",
 				"value": "answer2"
-			},
+			}
 		]
 },
 {
@@ -171,7 +171,7 @@
 	"additionalInfo": [{
 				"label": "issue",
 				"value": "no power"
-			},
+			}
 		]
 },
 {
