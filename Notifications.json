@@ -1,5 +1,6 @@
 [{
 		"id": "beorgefge",
+		"deviceId": "sadzdasd",
 		"timestamp": "2023-05-23 15:23:38.132",
 		"latitude":42.164118420892386 ,
 		"longitude":24.74351378103829 ,
@@ -12,6 +13,7 @@
 	},
 	{
 		"id": "borgefge",
+		"deviceId": "sadzdasd",
 		"timestamp": "2023-05-22 09:20:38.132",
 		"latitude":42.164118420892386 ,
 		"longitude":24.74351378103829 ,
@@ -23,6 +25,7 @@
 		"confidence": 5.2
 	}, {
 		"id": "beorgefg",
+		"deviceId": "sadzdasd",
 		"timestamp": "2023-05-21 10:05:38.132",
 		"latitude":42.164118420892386 ,
 		"longitude":24.74351378103829 ,
@@ -34,6 +37,7 @@
 		"confidence": 5.2
 	}, {
 		"id": "beorgeg",
+		"deviceId": "sadzdasd",
 		"timestamp": "2023-03-17 10:05:38.132",
 		"latitude":42.164118420892386 ,
 		"longitude":24.74351378103829 ,
@@ -45,6 +49,7 @@
 		"confidence": 5.2
 	}, {
 		"id": "bgefg",
+		"deviceId": "sadzdasd",
 		"timestamp": "2023-03-17 10:05:38.132",
 		"latitude":42.164118420892386 ,
 		"longitude":24.74351378103829 ,
@@ -56,6 +61,7 @@
 		"confidence": 5.2
 	}, {
 		"id": "bezdefg",
+		"deviceId": "sadzdasd",
 		"timestamp": "2023-03-17 10:05:38.132",
 		"latitude":42.164118420892386 ,
 		"longitude":24.74351378103829 ,
@@ -67,6 +73,7 @@
 		"confidence": 5.2
 	}, {
 		"id": "beorsazgefg",
+		"deviceId": "sadzdasd",
 		"timestamp": "2023-03-17 10:05:38.132",
 		"latitude":42.164118420892386 ,
 		"longitude":24.74351378103829 ,
@@ -78,6 +85,7 @@
 		"confidence": 5.2
 	}, {
 		"id": "beojlirgefg",
+		"deviceId": "sadzdasd",
 		"timestamp": "2023-03-17 10:05:38.132",
 		"latitude":42.164118420892386 ,
 		"longitude":24.74351378103829 ,
