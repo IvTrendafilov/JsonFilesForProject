@@ -10,34 +10,7 @@
 	"last_active_at": "2023-05-29 11:00:08.012",
 	"software_version": "1.5.3",
 	"hardware_version": "0.1.1",
-	"additionalInfo": [{
-				"label": "issue",
-				"value": "no power"
-			},
-			{
-				"label": "issue information",
-				"value": "overheat of bulb"
-			},
-			{
-				"label": "solution",
-				"value": "change bulb"
-			},
-			{
-				"label": "info2",
-				"value": "answer2"
-			},
-			{
-				"label": "info3",
-				"value": "answer3"
-			},
-			{
-				"label": "info3",
-				"value": "answer3"
-			},
-			{
-				"label": "info3",
-				"value": "answer3"
-			}]
+	"additionalInfo": { "test": "working", "test1": "working1"}
 },
 {
 	"id": "sadzdasd1",
@@ -50,31 +23,8 @@
 	"last_active_at": "2023-05-29 11:00:08.012",
 	"software_version": "1.5.3",
 	"hardware_version": "0.1.1",
-	"additionalInfo": [{
-				"label": "issue",
-				"value": "no power"
-			},
-			{
-				"label": "issue information",
-				"value": "overheat of bulb"
-			},
-			{
-				"label": "solution",
-				"value": "change bulb"
-			},
-			{
-				"label": "info2",
-				"value": "answer2"
-			},
-			{
-				"label": "info3",
-				"value": "answer3"
-			},
-			{
-				"label": "info3",
-				"value": "answer3"
-			}
-		]
+	"additionalInfo": { "test": "working", "test1": "working1"}
+
 },
 {
 	"id": "sadzdasd2",
@@ -87,19 +37,8 @@
 	"last_active_at": "2023-05-29 11:00:08.012",
 	"software_version": "1.5.3",
 	"hardware_version": "0.1.1",
-	"additionalInfo": [{
-				"label": "issue",
-				"value": "no power"
-			},
-			{
-				"label": "issue information",
-				"value": "overheat of bulb"
-			},
-			{
-				"label": "solution",
-				"value": "change bulb"
-			}
-		]
+	"additionalInfo": { "test": "working", "test1": "working1"}
+
 },
 {
 	"id": "sadzdasd3",
@@ -112,23 +51,8 @@
 	"last_active_at": "2023-05-29 11:00:08.012",
 	"software_version": "1.5.3",
 	"hardware_version": "0.1.1",
-	"additionalInfo": [{
-				"label": "issue",
-				"value": "no power"
-			},
-			{
-				"label": "issue information",
-				"value": "overheat of bulb"
-			},
-			{
-				"label": "solution",
-				"value": "change bulb"
-			},
-			{
-				"label": "info2",
-				"value": "answer2"
-			}
-		]
+	"additionalInfo": { "test": "working", "test1": "working1"}
+
 },
 {
 	"id": "sadzdasd4",
@@ -141,7 +65,8 @@
 	"last_active_at": "2023-05-29 11:00:08.012",
 	"software_version": "1.5.3",
 	"hardware_version": "0.1.1",
-	"additionalInfo": null
+	"additionalInfo": { "test": "working", "test1": "working1"}
+
 },
 {
 	"id": "sadzdasd5",
@@ -167,11 +92,7 @@
 	"last_active_at": "2023-05-25 11:32:08.012",
 	"software_version": "1.5.3",
 	"hardware_version": "0.1.1",
-	"additionalInfo": [{
-				"label": "issue",
-				"value": "no power"
-			}
-		]
+	"additionalInfo": {}
 },
 {
 	"id": "sadzdasd7",
@@ -184,7 +105,7 @@
 	"last_active_at": "2023-05-25 11:32:08.012",
 	"software_version": "1.5.3",
 	"hardware_version": "0.1.1",
-	"additionalInfo": null
+	"additionalInfo": {}
 },
 {
 	"id": "sadzdasd8",
@@ -197,6 +118,6 @@
 	"last_active_at": "2023-05-29 11:00:08.012",
 	"software_version": "1.5.3",
 	"hardware_version": "0.1.1",
-	"additionalInfo": null
+	"additionalInfo": {}
 }
 ]
