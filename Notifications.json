@@ -1,5 +1,5 @@
 [{
-		"id": "beorgefge",
+		"id": 0,
 		"deviceId": "sadzdasd",
 		"timestamp": "2023-05-29 14:00:38.132",
 		"latitude":42.164118420892386 ,
@@ -12,7 +12,7 @@
 		"confidence": 5.2
 	},
 	{
-		"id": "borgefge",
+		"id": 1,
 		"deviceId": "sadzdasd",
 		"timestamp": "2023-05-29 14:00:38.132",
 		"latitude":42.164118420892386 ,
@@ -24,7 +24,7 @@
 		"segmentAngle": 30 ,
 		"confidence": 5.2
 	}, {
-		"id": "beorgefg",
+		"id": 2,
 		"deviceId": "sadzdasd",
 		"timestamp": "2023-05-29 14:00:38.132",
 		"latitude":42.164118420892386 ,
@@ -36,7 +36,7 @@
 		"segmentAngle": 40 ,
 		"confidence": 5.2
 	}, {
-		"id": "beorgeg",
+		"id": 3,
 		"deviceId": "sadzdasd",
 		"timestamp": "2023-05-29 14:00:38.132",
 		"latitude":42.164118420892386 ,
@@ -48,7 +48,7 @@
 		"segmentAngle": 20 ,
 		"confidence": 5.2
 	}, {
-		"id": "bgefg",
+		"id": 4,
 		"deviceId": "sadzdasd",
 		"timestamp": "2023-05-28 14:00:38.132",
 		"latitude":42.164118420892386 ,
@@ -60,7 +60,7 @@
 		"segmentAngle": 87 ,
 		"confidence": 5.2
 	}, {
-		"id": "bezdefg",
+		"id": 5,
 		"deviceId": "sadzdasd",
 		"timestamp": "2023-05-28 14:00:38.132",
 		"latitude":42.164118420892386 ,
@@ -72,7 +72,7 @@
 		"segmentAngle": 98 ,
 		"confidence": 5.2
 	}, {
-		"id": "beorsazgefg",
+		"id": 6,
 		"deviceId": "sadzdasd",
 		"timestamp": "2023-05-27 14:00:38.132",
 		"latitude":42.164118420892386 ,
@@ -84,7 +84,7 @@
 		"segmentAngle": 45 ,
 		"confidence": 5.2
 	}, {
-		"id": "beojlirgefg",
+		"id": 7,
 		"deviceId": "sadzdasd",
 		"timestamp": "2023-05-26 10:05:38.132",
 		"latitude":42.164118420892386 ,
