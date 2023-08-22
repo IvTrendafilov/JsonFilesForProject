@@ -1,0 +1,70 @@
+[
+   {
+      "id":1,
+      "name":"Example Tennis Club 1",
+      "details":"A premier tennis club in the heart of the city.",
+      "phone":"+1234567890",
+      "workHours":"Mon-Fri: 9:00 AM - 8:00 PM, Sat-Sun: 10:00 AM - 6:00 PM",
+      "numberOfCourts":5,
+      "coaches":[
+         {
+            "id":101,
+            "picture":"https://example.com/coach1.jpg",
+            "name":"John Smith",
+            "description":"Experienced tennis coach with a passion for teaching.",
+            "phone":"+9876543210",
+            "workHours":"Mon-Wed: 2:00 PM - 7:00 PM, Fri: 10:00 AM - 4:00 PM",
+            "additionalInfo":{
+               "certifications":"USPTA Certified",
+               "specialization":"Singles and Doubles"
+            }
+         },
+         {
+            "id":102,
+            "picture":"https://example.com/coach2.jpg",
+            "name":"Alice Johnson",
+            "description":"Former professional tennis player turned coach.",
+            "phone":"+8765432109",
+            "workHours":"Tue-Thu: 3:00 PM - 6:00 PM, Sat: 9:00 AM - 1:00 PM",
+            "additionalInfo":{
+               "certifications":"PTR Certified",
+               "specialization":"Junior Players"
+            }
+         }
+      ]
+   },
+   {
+      "id":2,
+      "name":"Sunnyville Tennis Center",
+      "details":"A family-friendly tennis center with modern facilities.",
+      "phone":"+1112223333",
+      "workHours":"Mon-Sun: 8:00 AM - 10:00 PM",
+      "numberOfCourts":8,
+      "coaches":[
+         {
+            "id":201,
+            "picture":"https://example.com/coach3.jpg",
+            "name":"Emily Davis",
+            "description":"Energetic coach with a focus on fitness and fun.",
+            "phone":"+4445556666",
+            "workHours":"Mon-Fri: 10:00 AM - 6:00 PM, Sat: 11:00 AM - 3:00 PM",
+            "additionalInfo":{
+               "certifications":"USTA Certified",
+               "specialization":"Cardio Tennis"
+            }
+         },
+         {
+            "id":202,
+            "picture":"https://example.com/coach4.jpg",
+            "name":"Michael Brown",
+            "description":"Tennis enthusiast with a knack for strategy.",
+            "phone":"+7778889999",
+            "workHours":"Tue-Thu: 1:00 PM - 8:00 PM, Sun: 9:00 AM - 12:00 PM",
+            "additionalInfo":{
+               "certifications":"PTR Certified",
+               "specialization":"Advanced Players"
+            }
+         }
+      ]
+   }
+]
