@@ -6,6 +6,8 @@
       "phone":"+1234567890",
       "workHours":"Mon-Fri: 9:00 AM - 8:00 PM, Sat-Sun: 10:00 AM - 6:00 PM",
       "numberOfCourts":5,
+      "latitude": 34.0522,
+      "longitude": -118.2437,
       "coaches":[
          {
             "id":101,
@@ -40,6 +42,8 @@
       "phone":"+1112223333",
       "workHours":"Mon-Sun: 8:00 AM - 10:00 PM",
       "numberOfCourts":8,
+      "latitude": 36.0522,
+      "longitude": -118.2437,
       "coaches":[
          {
             "id":201,
