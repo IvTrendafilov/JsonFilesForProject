@@ -1,32 +1,32 @@
 [
   {
     "id": 1,
-    "name": "Example Tennis Club 1",
-    "details": "A premier tennis club in the heart of the city.",
-    "phone": "+1234567890",
+    "name": "Tennis Club Sofia",
+    "details": "A premier tennis club in the heart of Sofia.",
+    "phone": "+3591234567",
     "workHours": "Mon-Fri: 9:00 AM - 8:00 PM, Sat-Sun: 10:00 AM - 6:00 PM",
     "numberOfCourts": 5,
-    "latitude": 34.0522,
-    "longitude": -118.2437,
+    "latitude": 42.6977,
+    "longitude": 23.3219,
     "coaches": [
       {
         "id": 101,
         "picture": "https://example.com/coach1.jpg",
-        "name": "John Smith",
+        "name": "Ivan Petrov",
         "description": "Experienced tennis coach with a passion for teaching.",
-        "phone": "+9876543210",
+        "phone": "+3599876543",
         "workHours": "Mon-Wed: 2:00 PM - 7:00 PM, Fri: 10:00 AM - 4:00 PM",
         "additionalInfo": {
-          "certifications": "USPTA Certified",
+          "certifications": "Bulgarian Tennis Federation Certified",
           "specialization": "Singles and Doubles"
         }
       },
       {
         "id": 102,
         "picture": "https://example.com/coach2.jpg",
-        "name": "Alice Johnson",
+        "name": "Maria Ivanova",
         "description": "Former professional tennis player turned coach.",
-        "phone": "+8765432109",
+        "phone": "+3598765432",
         "workHours": "Tue-Thu: 3:00 PM - 6:00 PM, Sat: 9:00 AM - 1:00 PM",
         "additionalInfo": {
           "certifications": "PTR Certified",
@@ -37,32 +37,32 @@
   },
   {
     "id": 2,
-    "name": "Sunnyville Tennis Center",
-    "details": "A family-friendly tennis center with modern facilities.",
-    "phone": "+1112223333",
+    "name": "Sunny Beach Tennis Center",
+    "details": "A family-friendly tennis center on the Black Sea coast.",
+    "phone": "+3595556667",
     "workHours": "Mon-Sun: 8:00 AM - 10:00 PM",
     "numberOfCourts": 8,
-    "latitude": 36.0522,
-    "longitude": -118.2437,
+    "latitude": 42.6954,
+    "longitude": 27.7101,
     "coaches": [
       {
         "id": 201,
         "picture": "https://example.com/coach3.jpg",
-        "name": "Emily Davis",
+        "name": "Dimitar Georgiev",
         "description": "Energetic coach with a focus on fitness and fun.",
-        "phone": "+4445556666",
+        "phone": "+3594445556",
         "workHours": "Mon-Fri: 10:00 AM - 6:00 PM, Sat: 11:00 AM - 3:00 PM",
         "additionalInfo": {
-          "certifications": "USTA Certified",
+          "certifications": "Bulgarian Tennis Federation Certified",
           "specialization": "Cardio Tennis"
         }
       },
       {
         "id": 202,
         "picture": "https://example.com/coach4.jpg",
-        "name": "Michael Brown",
+        "name": "Elena Vasileva",
         "description": "Tennis enthusiast with a knack for strategy.",
-        "phone": "+7778889999",
+        "phone": "+3597778889",
         "workHours": "Tue-Thu: 1:00 PM - 8:00 PM, Sun: 9:00 AM - 12:00 PM",
         "additionalInfo": {
           "certifications": "PTR Certified",
@@ -73,20 +73,20 @@
   },
   {
     "id": 3,
-    "name": "Green Valley Tennis Club",
-    "details": "A serene tennis club surrounded by nature.",
-    "phone": "+2223334444",
+    "name": "Mountain View Tennis Club",
+    "details": "A serene tennis club in the Rila Mountains.",
+    "phone": "+3592223334",
     "workHours": "Mon-Sun: 7:00 AM - 9:00 PM",
     "numberOfCourts": 6,
-    "latitude": 40.7128,
-    "longitude": -74.0060,
+    "latitude": 42.2667,
+    "longitude": 23.6219,
     "coaches": [
       {
         "id": 301,
         "picture": "https://example.com/coach5.jpg",
-        "name": "Sarah Wilson",
+        "name": "Stefan Dimitrov",
         "description": "Passionate coach dedicated to improving techniques.",
-        "phone": "+5556667777",
+        "phone": "+3595556667",
         "workHours": "Tue-Thu: 9:00 AM - 4:00 PM, Sat: 10:00 AM - 2:00 PM",
         "additionalInfo": {
           "certifications": "PTR Certified",
@@ -96,123 +96,7 @@
       {
         "id": 302,
         "picture": "https://example.com/coach6.jpg",
-        "name": "David Lee",
+        "name": "Nina Ivanova",
         "description": "Technical coach with a focus on precision.",
-        "phone": "+8889990000",
-        "workHours": "Mon-Fri: 3:00 PM - 9:00 PM, Sun: 11:00 AM - 5:00 PM",
-        "additionalInfo": {
-          "certifications": "USPTA Certified",
-          "specialization": "Advanced Techniques"
-        }
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "name": "Harmony Tennis Club",
-    "details": "A place where tennis meets community.",
-    "phone": "+3334445555",
-    "workHours": "Mon-Sun: 9:00 AM - 7:00 PM",
-    "numberOfCourts": 4,
-    "latitude": 41.8781,
-    "longitude": -87.6298,
-    "coaches": [
-      {
-        "id": 401,
-        "picture": "https://example.com/coach7.jpg",
-        "name": "Jessica Adams",
-        "description": "Dynamic coach empowering players of all levels.",
-        "phone": "+1112223333",
-        "workHours": "Mon-Wed: 12:00 PM - 8:00 PM, Sat: 1:00 PM - 5:00 PM",
-        "additionalInfo": {
-          "certifications": "USTA Certified",
-          "specialization": "All Ages"
-        }
-      },
-      {
-        "id": 402,
-        "picture": "https://example.com/coach8.jpg",
-        "name": "Robert Turner",
-        "description": "Patient coach focused on building fundamentals.",
-        "phone": "+4445556666",
-        "workHours": "Tue-Thu: 10:00 AM - 6:00 PM, Sun: 9:00 AM - 12:00 PM",
-        "additionalInfo": {
-          "certifications": "PTR Certified",
-          "specialization": "Youth Development"
-        }
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "name": "Golden State Tennis Club",
-    "details": "Where tennis and competition come together.",
-    "phone": "+5556667777",
-    "workHours": "Mon-Fri: 9:00 AM - 10:00 PM, Sat: 10:00 AM - 6:00 PM",
-    "numberOfCourts": 10,
-    "latitude": 34.0522,
-    "longitude": -118.2437,
-    "coaches": [
-      {
-        "id": 501,
-        "picture": "https://example.com/coach9.jpg",
-        "name": "Daniel White",
-        "description": "Strategic coach with a focus on match preparation.",
-        "phone": "+7778889999",
-        "workHours": "Mon-Wed: 1:00 PM - 7:00 PM, Fri: 10:00 AM - 4:00 PM",
-        "additionalInfo": {
-          "certifications": "USPTA Certified",
-          "specialization": "Competition Training"
-        }
-      },
-      {
-        "id": 502,
-        "picture": "https://example.com/coach10.jpg",
-        "name": "Sophia Martinez",
-        "description": "Tennis pro with a knack for developing young talents.",
-        "phone": "+8889990000",
-        "workHours": "Tue-Thu: 9:00 AM - 5:00 PM, Sat: 11:00 AM - 3:00 PM",
-        "additionalInfo": {
-          "certifications": "PTR Certified",
-          "specialization": "Junior Players"
-        }
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "name": "Meadowside Tennis Academy",
-    "details": "Focused on nurturing a love for tennis in every player.",
-    "phone": "+6667778888",
-    "workHours": "Mon-Sun: 8:00 AM - 8:00 PM",
-    "numberOfCourts": 3,
-    "latitude": 37.7749,
-    "longitude": -122.4194,
-    "coaches": [
-      {
-        "id": 601,
-        "picture": "https://example.com/coach11.jpg",
-        "name": "Jennifer Miller",
-        "description": "Enthusiastic coach committed to creating lifelong players.",
-        "phone": "+5556667777",
-        "workHours": "Mon-Fri: 10:00 AM - 6:00 PM, Sat: 9:00 AM - 1:00 PM",
-        "additionalInfo": {
-          "certifications": "USTA Certified",
-          "specialization": "Youth Development"
-        }
-      },
-      {
-        "id": 602,
-        "picture": "https://example.com/coach12.jpg",
-        "name": "Alex Turner",
-        "description": "Innovative coach with a focus on modern techniques.",
-        "phone": "+8889990000",
-        "workHours": "Tue-Thu: 1:00 PM - 7:00 PM, Sun: 10:00 AM - 4:00 PM",
-        "additionalInfo": {
-          "certifications": "USPTA Certified",
-          "specialization": "Advanced Strategies"
-        }
-      }
-    ]
-  }
-]
+        "phone": "+3598889991",
+        "workHours": "Mon-Fri: 3:00 PM - 9:00 PM, Sun: 11
